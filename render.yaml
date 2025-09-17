@@ -4,5 +4,5 @@ services:
     env: static
     branch: main
     buildCommand: ''
-    staticPublishPath: /   
+    staticPublishPath: .
     plan: free
